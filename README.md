@@ -2,6 +2,7 @@
 This is the official compiler for Waldbrand
 
 Info/Warning: The Programming Language Waldbrand is still in Beta and only runnable on Windows, but I'm trying to bring it to Linux, macOS and the BSD-Distrories.
+It translates Waldbrand to C, but direct compiling to an executable is in development.
 
 The requiments are:
 - A running Windows Machine
